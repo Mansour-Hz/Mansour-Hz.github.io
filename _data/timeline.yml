@@ -17,45 +17,43 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Saba System Sadra
+  title-url: https://ssystems.ir/
+  date: Mar 2024 - Present
+  subtitle: SOC Analyst
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
+    - tag: SIEM
+    - tag: Log anlysis
+    - tag: Security+
     - tag: Rails
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Rayvarz
+  title-url: https://rayvarz.com/
+  date: Aug 2023 - Mar 2024
+  subtitle: Js developer as Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Next js
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Tadbir Pardaz
+  title-url: http://tadbirpardaz.ir/
+  date: Feb 2022 - Jul 2023
+  subtitle: Software Document Writer
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Tehran Polytechnic
+  title-url: https://aut.ac.ir/
+  date: Sep 2018 - Sep 2023
+  subtitle: Dummy Student
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    # - tag: React
+    # - tag: Node
+    # - tag: Javascript
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+# - title: Super University
+#   title-url: https://example.com/
+#   date: 2014 - 2017
+#   subtitle: B.A. Computer Science
+#   timeline-side: left
